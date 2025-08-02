@@ -1,5 +1,5 @@
 
-# 🍽️ Flutter Recipe App
+# 🍽️ Recipe Book App
 
 A beautifully designed Flutter application that displays a collection of recipes with detailed information such as ingredients, nutrition facts, categories, and more. The app supports both list and grid views, category-based filtering, and responsive layout for mobile and web.
 
